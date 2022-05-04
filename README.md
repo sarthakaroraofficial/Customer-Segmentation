@@ -4,4 +4,4 @@ This project will help the organisation in marketting sector like helpin in filt
 
 Unsupervised Machine Learning is used in this project.
 
-Predictin using K-Means Clustering Technique.
+Predicting using K-Means Clustering Technique.
